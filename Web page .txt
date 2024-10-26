@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jairos Ministry for Christ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+        }
+        header, .section {
+            padding: 20px;
+            text-align: center;
+        }
+        header {
+            background-color: #0066cc;
+            color: white;
+        }
+        .section h2 {
+            color: #0066cc;
+        }
+        .section {
+            padding: 40px 20px;
+        }
+        #about, #gospel, #invite, #contact {
+            background-color: #e6f2ff;
+            margin: 20px;
+            border-radius: 8px;
+            padding: 20px;
+        }
+        footer {
+            background-color: #0066cc;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Jairos Ministry for Christ</h1>
+        <p>Sharing the Gospel of Christ and inviting you to join a local church community.</p>
+    </header>
+
+    <section id="about" class="section">
+        <h2>About Us</h2>
+        <p>Welcome to Jairos Ministry for Christ! We are dedicated to spreading the message of Christ’s love and salvation, encouraging all to explore and deepen their faith in Him.</p>
+    </section>
+
+    <section id="gospel" class="section">
+        <h2>The Gospel of Christ</h2>
+        <p>The Gospel is the Good News of Jesus Christ. Through His life, death, and resurrection, Jesus provides the path to salvation, forgiveness, and eternal life. Our ministry exists to share this message and help guide you on your journey with Christ.</p>
+    </section>
+
+    <section id="invite" class="section">
+        <h2>Join a Local Church</h2>
+        <p>We invite you to find and connect with a local Christian church near you. Being part of a church family provides spiritual support, growth, and community. Let’s grow in faith together and experience the love of God alongside others who seek Him.</p>
+    </section>
+
+    <section id="contact" class="section">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need guidance, feel free to reach out to us at:</p>
+        <p>Email: contact@jairosministryforchrist.com</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>We are here to support you on your journey to faith.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Jairos Ministry for Christ. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
